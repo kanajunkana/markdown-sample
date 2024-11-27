@@ -60,12 +60,12 @@ Sample Document 日本語
 ### Markdown 記法
 画像を掲載するには代替文字列を ![ ] で囲んだ後に、ファイルのURLまたは相対パスを( )で囲んで記述します。
 
-![Sample Image](images/sample.jpg)
+![Sample Image](https://img.freepik.com/free-photo/abstract-autumn-beauty-multi-colored-leaf-vein-pattern-generated-by-ai_188544-9871.jpg)
 
 ### HTMLタグ
 画像をサイズ指定で表示したい場合は、HTMLタグが利用可能です。
 
-<img src="images/sample.jpg" width="160">  
+<img src="https://img.freepik.com/free-photo/abstract-autumn-beauty-multi-colored-leaf-vein-pattern-generated-by-ai_188544-9871.jpg" width="160">  
 
 
 ## リンク
